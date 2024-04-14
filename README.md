@@ -35,5 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Clerk: https://dashboard.clerk.com/apps/app_2f63B0ccJmuBTDa6GHsMl7JQRNa/instances/ins_2f63B8zMy0GAigY9lDhQNBdvCZh/users
-Stream: https://dashboard.getstream.io/app/1300841/video/overview
+
+- Clerk: https://dashboard.clerk.com/apps/app_2f63B0ccJmuBTDa6GHsMl7JQRNa/instances/ins_2f63B8zMy0GAigY9lDhQNBdvCZh/users
+
+- Stream: https://dashboard.getstream.io/app/1300841/video/overview
